@@ -288,7 +288,7 @@ label = 2, prediction = 2<br>
 **Note**：
 <br>We find that the attention results for both laptops and restaurants datasets are not that good.
 <br>For sentences with small length, the attention weights tend to be the average for each words.
-<br>For sentences with large length, the attentions weights tend to be the average within a certain window round the target words
+<br>For sentences with large length, the attentions weights tend to be the average within a certain window around the target words
 <br>We also find that under some circumstances the attention weigths for a emotion word (i.e. excellent), is even lower than other non-emotional words
 
 
