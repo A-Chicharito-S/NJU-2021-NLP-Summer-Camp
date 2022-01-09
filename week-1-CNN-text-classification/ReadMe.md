@@ -1,7 +1,7 @@
 CNN-Text-Classification
 ====
 This is the project for week 1, using a CNN-architecture for text classification.<br>
-The original paper is: Convolutional Neural Networks for Sentence Classification [[paper]](https://aclanthology.org/D14-1181/)
+The original paper is: **Convolutional Neural Networks for Sentence Classification** [[paper]](https://aclanthology.org/D14-1181/)<br>
 Using the Cornell Movie Review dataset---sentence polarity dataset v1.0 from https://www.cs.cornell.edu/people/pabo/movie-review-data/<br>
 Using pre-trained word vector Glove---6B version from https://nlp.stanford.edu/projects/glove/
 <br>The project consists of four parts:
