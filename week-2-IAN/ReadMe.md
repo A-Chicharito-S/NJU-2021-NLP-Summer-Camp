@@ -1,6 +1,7 @@
 IAN
 ====
 This is the project for week 2, using an architecture called Interactive Attetion Network to do aspective-level sentiment classification.<br>
+The original paper is: **Interactive Attention Networks for Aspect-Level Sentiment Classification** [[paper]](https://arxiv.org/abs/1709.00893)<br>
 Using the Restaurants and Laptops datasets---which can be downloaded via https://github.com/songyouwei/ABSA-PyTorch (or simply use the dataset under Zhaofei/data)<br>
 Using pre-trained word vector Glove---6B version from https://nlp.stanford.edu/projects/glove/
 <br>The project consists mainly of four parts:
