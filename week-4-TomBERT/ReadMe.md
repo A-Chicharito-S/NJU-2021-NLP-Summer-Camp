@@ -1,6 +1,7 @@
 TomBERT
 ======
-This is the week 4 project---TomBERT<br><br><br>
+This is the week 4 project---TomBERT<br>
+The original paper is: **Adapting BERT for Target-Oriented Multimodal Sentiment Classification** [[paper]](https://www.ijcai.org/proceedings/2019/0751.pdf)<br><br><br>
 ## The structure of the program is:<br>
 ![image](https://user-images.githubusercontent.com/61720358/128211928-2a5c529c-c4e0-47df-a56b-c40d0c1afc48.png)
 <br><br>
