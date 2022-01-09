@@ -1,6 +1,7 @@
 ASGCN-DT
 ===
 this is another week 4 project using GCN-based model to do sentiment classification<br>
+The original paper is: **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks** [[paper]](https://arxiv.org/abs/1909.03477)<br>
 source of paper: https://arxiv.org/pdf/1909.03477.pdf<br>
 only model.py is uploaded since time is limited<br>
 and only the semEval 2014 laptops dataset is used for experiment
